@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oi, eu sou o Naum 👋
 
 Sou aspirante a dev front-end
 
