@@ -1,6 +1,6 @@
 ### Oi, eu sou o Naum 👋
 
-Sou aspirante a dev front-end
+Sou aspirante a dev fullstack
 
 - 🔭 Desenvolvendo alguns projetos.
 - 🌱 Sempre evoluindo nas tecnologisas .NET.
